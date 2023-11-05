@@ -42,6 +42,7 @@ const AllocationForm = (props) => {
     return (
         <div>
             <div className='row'>
+       
 
                 <div className="input-group mb-3" style={{ marginLeft: '2rem' }}>
                     <div className="input-group-prepend">
